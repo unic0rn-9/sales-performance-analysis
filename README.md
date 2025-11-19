@@ -79,6 +79,3 @@ Upload the generated `cleaned_sales_data_python.csv` into a MySQL table.
 - Click **Refresh** if needed  
 
 ---
-
-### 👍 This README is fully GitHub-formatted and will render perfectly.
-
